@@ -4,3 +4,5 @@ openai
 dotenv
 uvicorn
 fastapi
+sqlalchemy
+pyodbc
