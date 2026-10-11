@@ -1,8 +1,10 @@
 pypdf 
 python-multipart
 openai
-dotenv
+python-dotenv
 uvicorn
 fastapi
 sqlalchemy
 pyodbc
+bcrypt
+python-jose[cryptography]
